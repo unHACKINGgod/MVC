@@ -1,0 +1,29 @@
+{
+  "name": "mvc",
+  "version": "1.0.0",
+  "description": "a virtual church fellowship",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "nodemon": "^1.11.0",
+    "socket.io": "^1.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unHACKINGgod/MVC.git"
+  },
+  "keywords": [
+    "mvc"
+  ],
+  "author": "agboola habeeb olasunkanmi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unHACKINGgod/MVC/issues"
+  },
+  "homepage": "https://github.com/unHACKINGgod/MVC#readme"
+}
